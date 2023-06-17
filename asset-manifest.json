@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-count-react/static/css/main.4de9fc06.css",
+    "main.js": "/word-count-react/static/js/main.f7eb101e.js",
+    "index.html": "/word-count-react/index.html",
+    "main.4de9fc06.css.map": "/word-count-react/static/css/main.4de9fc06.css.map",
+    "main.f7eb101e.js.map": "/word-count-react/static/js/main.f7eb101e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de9fc06.css",
+    "static/js/main.f7eb101e.js"
+  ]
+}
