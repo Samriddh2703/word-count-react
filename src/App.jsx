@@ -21,7 +21,7 @@ function App() {
     <div className="App">
         <div className="container">
           <h1>Responsive Paragraph Word Counter</h1>
-          <textarea placeholder='What is in your mind?' onChange={handleChange} name="para" id="para" spellCheck='false' rows="10"></textarea>
+          <textarea placeholder='Type a sentence' onChange={handleChange} name="para" id="para" spellCheck='false' rows="10"></textarea>
           <p>Word Count: {wordCount}</p>
         </div>
         {/* <p id='copyright'>©2023 <a href="mailto:amit.kumar2020@vitbhopal.ac.in">Amit Verma</a></p> */}
