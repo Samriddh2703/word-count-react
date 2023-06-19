@@ -24,7 +24,6 @@ function App() {
           <textarea placeholder='Type a sentence' onChange={handleChange} name="para" id="para" spellCheck='false' rows="10"></textarea>
           <p>Word Count: {wordCount}</p>
         </div>
-        {/* <p id='copyright'>©2023 <a href="mailto:amit.kumar2020@vitbhopal.ac.in">Amit Verma</a></p> */}
     </div>
   );
 }
